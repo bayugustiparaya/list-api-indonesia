@@ -1,42 +1,3 @@
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=bayugustiparaya.list-api-indonesia)](https://github.com/bayugustiparaya/list-api-indonesia)
-[![GitHub forks](https://img.shields.io/github/forks/bayugustiparaya/list-api-indonesia?style=social)](https://github.com/bayugustiparaya/list-api-indonesia/fork)
-[![GitHub stars](https://img.shields.io/github/stars/bayugustiparaya/list-api-indonesia?style=social)](https://github.com/bayugustiparaya/list-api-indonesia/stargazers)
-[![Followers](https://img.shields.io/github/followers/bayugustiparaya?style=social&label=Follow)](https://github.com/bayugustiparaya?tab=followers)
-
-# Daftar API Lokal Indonesia
-
-Kumpulan API tentang data dan informasi di Indonesia
-
-## Daftar Isi
-
-- [Daftar API Lokal Indonesia](#daftar-api-lokal-indonesia)
-  - [Daftar Isi](#daftar-isi)
-  - [Daftar API](#daftar-api)
-    - [Informasi Umum](#informasi-umum)
-    - [Berita](#berita)
-    - [Buku](#buku)
-    - [Crypto](#crypto)
-    - [E-Commerce](#e-commerce)
-    - [Finansial](#finansial)
-    - [Forum](#forum)
-    - [Hiburan](#hiburan)
-    - [Jasa Pengiriman](#jasa-pengiriman)
-    - [Kegiatan Khusus](#kegiatan-khusus)
-    - [Kegiatan Sehari-hari](#kegiatan-sehari-hari)
-    - [Kesehatan](#kesehatan)
-    - [Lokasi](#lokasi)
-    - [Musik](#musik)
-    - [Pemerintahan](#pemerintahan)
-    - [Pendidikan](#pendidikan)
-    - [Prediksi](#prediksi)
-    - [Ramalan Cuaca](#ramalan-cuaca)
-    - [Sertifikasi](#sertifikasi)
-    - [Sosial Media](#sosial-media)
-    - [Utilitas](#utilitas)
-  - [Kontak](#kontak)
-
-## Daftar API
-
 ### Informasi Umum
 
 | Nama API               | Developer |                             URL                             | Status  | Deskripsi                                                                                                                                                                                | `Auth`  |
@@ -313,16 +274,4 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Face API                     |   Irfan Akbari Habibi    |          [Link](https://github.com/Irfanakbari/face-recognition)          | `Aktif` | API untuk mendeteksi wajah dalam gambar, mendapatkan UID untuk cek similarity(berguna untuk sistem face recognition) |  Tidak   |
 | PetPet GIF Generator API                     |   balhisyhrl    |          [Link](https://anon-petpet.herokuapp.com/)          | `Aktif` | API PetPet GIF Generator |  Tidak   |
 | Spam Call                 |         Rud Az           |            [Link](https://spamertelpon.herokuapp.com/)                    | `Aktif` | Api untuk spam call, per spam/telpon bisa beda² nomer.                                                               | `ApiKey`  |
-
-## Kontak
-
-Jika ada yang ingin ditambahkan atau dikoreksi bisa WA saya [+6281271077073](https://wa.me/6281271077073) ya! ATAU berkomentar via fitur [Issues](https://github.com/bayugustiparaya/list-api-indonesia/issues) atau langsung edit saja nanti biar didiskusikan terlebih dahulu.
-
-:fire: TERIMAKASIH :fire:
-
----
-
-## Lisensi
-
-[![GitHub](https://img.shields.io/github/license/bayugustiparaya/list-api-indonesia)](https://github.com/bayugustiparaya/list-api-indonesia/blob/main/LICENSE)
 
