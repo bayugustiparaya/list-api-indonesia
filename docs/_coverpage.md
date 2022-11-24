@@ -9,6 +9,6 @@
 
 > Kumpulan API tentang data dan informasi di Indonesia
 
-
+[My Page](https://bayugustiparaya.github.io/)
 [GitHub](https://github.com/bayugustiparaya/list-api-indonesia/)
 [Mulai Baca](/README)
